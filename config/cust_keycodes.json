@@ -1,0 +1,19 @@
+[
+	{
+		"names": [
+			"C_DESKTOP_SHOW"
+		],
+		"description": "C_DESKTOP_SHOW",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
